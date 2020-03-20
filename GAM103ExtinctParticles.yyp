@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "b4186796-19bf-4f36-88cb-a5808f77e613",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -516,6 +524,14 @@
                 "id": "9666cc00-f0e4-4972-881c-c387f001a6d7",
                 "resourcePath": "objects\/obj_Manager\/obj_Manager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "966a83d8-3db1-4d6a-93c5-94b67ff061b5",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
             }
         },
         {
