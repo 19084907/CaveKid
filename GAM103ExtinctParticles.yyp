@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0c4a6215-9401-4cfc-b423-030ec0badac7",
+            "Value": {
+                "id": "a2a100f4-810b-4bb9-b1f5-fc409871b4a9",
+                "resourcePath": "rooms\\rm_instructions\\rm_instructions.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0eca145a-7de0-45ca-9381-7f3987413592",
             "Value": {
                 "id": "beb120df-20d4-4c7b-afcd-559bcd422b7b",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "3434179a-9236-454c-9ed7-cccf50692fd6",
+            "Value": {
+                "id": "966da818-1b37-4682-9088-bcffe135b04f",
+                "resourcePath": "objects\\obj_cavekid\\obj_cavekid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4185dafb-15c0-4073-9da5-c2e07a92df36",
             "Value": {
                 "id": "5334b673-7630-4c91-8899-d4362a07c37c",
@@ -156,6 +172,14 @@
                 "id": "91b548a4-8de5-4c31-8a1d-29a1aef5bba7",
                 "resourcePath": "sounds\/towerFire\/towerFire.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "48e2cb8e-842c-49ab-af01-119a156ea78f",
+            "Value": {
+                "id": "953d3d60-a69e-4dc4-8257-84ed4302c6d4",
+                "resourcePath": "objects\\obj_instructions\\obj_instructions.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "80c13377-f020-4991-9df8-0a85bcd15f4b",
+            "Value": {
+                "id": "b1ed51ed-01d4-4c16-9b13-5c0b28518b27",
+                "resourcePath": "objects\\obj_ribcage\\obj_ribcage.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "836dff18-9794-4dcf-8e1b-613205bacb8b",
             "Value": {
                 "id": "6ecff8e7-ea5b-4be9-9234-443a6d1a580c",
@@ -463,6 +495,22 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "b4186796-19bf-4f36-88cb-a5808f77e613",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa9c3af5-5efc-4649-b7bc-229560c3173f",
+            "Value": {
+                "id": "563b77b2-287c-4a0b-aefc-f4a6b6983142",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "af6b104f-56ad-4b19-90dc-69970eb9f6f5",
             "Value": {
                 "id": "941f6426-62c3-4af8-b0fa-b0237b1b87df",
@@ -521,7 +569,7 @@
         {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
-                "id": "7f5a2632-8148-4987-aa9f-88e7c1fa0e15",
+                "id": "966a83d8-3db1-4d6a-93c5-94b67ff061b5",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
@@ -628,6 +676,14 @@
                 "id": "251ee250-0da0-41fc-a7c2-35c762b30d4e",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6f9f678-cf90-4644-b1d5-1ccef78b114a",
+            "Value": {
+                "id": "b2edc25e-4745-4e43-9a3d-2246ccb577cf",
+                "resourcePath": "sprites\\spr_ribcage\\spr_ribcage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
